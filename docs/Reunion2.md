@@ -1,0 +1,4 @@
+-ejemplos de autoencoder con datos numericos
+-ejemplos de autoencoder con datos/ secuencias de texto
+-corpus elegido
+-arquitecturas: ventajas/ desventajas, usos
