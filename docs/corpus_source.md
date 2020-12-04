@@ -35,5 +35,8 @@ Formado por:
     -Polaridad 1-negativo y 2-positivo
     -Contenido de la opinion
 
-5.Amazon Review Data (2018) - Jianmo Ni 
+5.Amazon Review Data (2018) - Jianmo Ni (https://nijianmo.github.io/amazon/index.html)
+Version actualizada del Amazon review dataset(2014) (http://jmcauley.ucsd.edu/data/amazon/index_2014.html), incluye: 
+-opinion/review (rating,text de opinion, fecha de review, verified o no, votos positivos) y metadatos sobre el producto(descripcion,categoria,precio,marca..)
+
 
