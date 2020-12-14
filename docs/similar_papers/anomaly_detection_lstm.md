@@ -7,7 +7,7 @@ Anomalias:
 
 Cabe destacar que en algunos campos, es suficiente con poner ciertos niveles de tolerancia y asi cualquier valor fuera de estos niveles se podrian considerar como anomalias.
 Sin embargo, en muchos casos el proceso de etiquetar una anomalia es una tarea que conlleva tiempo y recursos humanos y conocimiento por parte de los humanos entender el proceso de exclusion de dichos datos y categorizarlos como anomalias.
-
+ 
 Normalmente dado que los datasets no estan etiquetados conviene que la deteccion de anomalias sea no supervisado.
 
 Una RNN es un tipo especial de red neuronal mas eficiente en caso del procesamiento de datos secuenciales.
