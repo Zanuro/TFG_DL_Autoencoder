@@ -1,1 +1,0 @@
-This directory contains differents documents regarding autoencoders and different autoencoders examples.
